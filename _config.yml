@@ -1,13 +1,13 @@
 # Site settings
-title:          Rain
-description:    "Rain is a simple and clean Jekyll theme with focus on content."
+title:          王小川的博客
+description:    "一个热情"
 url:            https://github.com/inelaah/rain
 
 # Author
 author:
-  name:         Inela Avdic Hukic
-  email:        inelaah@gmail.com
-  url:          https://inelaah.com
+  name:         王小川
+  email:        xiangqian684@outlook.com
+  url:          https://wangxc092.github.io
 
 # Build settings
 markdown:       kramdown
@@ -34,7 +34,5 @@ related_posts_section:
 
 # Links to social media
 social:
-  email: inelaah@gmail.com
-  github: https://github.com/inelaah
-  twitter: https://twitter.com
-  linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
+  email: xiangqian684@outlook.com
+  github: https://github.com/wangxc092
