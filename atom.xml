@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://wangxc092.github.io</id>
+    <title>wangxc092</title>
+    <updated>2025-03-02T08:11:16.169Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://wangxc092.github.io"/>
+    <link rel="self" href="https://wangxc092.github.io/atom.xml"/>
+    <subtitle>没有什么能阻挡我前行</subtitle>
+    <logo>https://wangxc092.github.io/images/avatar.png</logo>
+    <icon>https://wangxc092.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, wangxc092</rights>
+    <entry>
+        <title type="html"><![CDATA[使用github pages和gridea搭建你的个人博客]]></title>
+        <id>https://wangxc092.github.io/post/shi-yong-github-pages-he-gridea-da-jian-ni-de-ge-ren-bo-ke/</id>
+        <link href="https://wangxc092.github.io/post/shi-yong-github-pages-he-gridea-da-jian-ni-de-ge-ren-bo-ke/">
+        </link>
+        <updated>2025-03-02T07:43:28.000Z</updated>
+        <content type="html"><![CDATA[<p>1，前言<br>
+在信息化的现在，拥有一个个人博客（主页）是很必要的</p>
+]]></content>
+    </entry>
+</feed>
